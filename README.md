@@ -61,7 +61,7 @@ Contributions to this project are welcome. Feel free to open an issue or submit 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Bahareh0281/MedAdvice-RAG-Enhancement/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 
